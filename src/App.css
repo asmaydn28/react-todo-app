@@ -1,0 +1,9 @@
+input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  body{
+    background-color: antiquewhite;
+    height: 100vh;
+  }

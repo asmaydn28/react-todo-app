@@ -6,4 +6,5 @@ input:focus {
   body{
     background-color: antiquewhite;
     height: 100vh;
+    overflow: hidden;
   }
